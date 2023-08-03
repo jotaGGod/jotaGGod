@@ -16,10 +16,10 @@
 <!-- Tecnologias -->
 
 <div style="display: flex; justify-content: space-around; "><br>
-    <img width="64" height="64" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
-    <img width="64" height="64" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-    <img width="64" height="64" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
-    <img width="64" height="64" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/>
+    <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>
+    <img width="48" height="48" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
+    <img width="48" height="48" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/>
     <img style="border-radius: 15px;" align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img style="border-radius: 15px;" align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>

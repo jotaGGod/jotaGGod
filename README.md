@@ -15,12 +15,13 @@
 
 <!-- Tecnologias -->
 
-<div style="display: flex; justify-content: space-around; "><br>
-    <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<div style="display: flex; justify-content: space-around; "><br>    
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+    <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
 </div>
 

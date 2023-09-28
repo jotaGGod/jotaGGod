@@ -20,7 +20,7 @@
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
+    <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
     <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
 </div>

@@ -11,8 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaGGod&hide_progress=true)]()
 
-## Tecnologias que uso ou já usei
-
+## Tecnologias e frameworks
 <!-- Tecnologias -->
 
 <div style="display: flex; justify-content: space-around; "><br>    

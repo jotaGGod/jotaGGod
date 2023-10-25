@@ -19,10 +19,10 @@
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="48" height="48" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="Typescript " title="Typescript ">
+    <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
     <img width="46" height="46" src="https://static-00.iconduck.com/assets.00/nestjs-plain-icon-512x510-3pkb2qwx.png" alt="nestjs plain icon" title="nestjs">    
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
     <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
-    <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
-</div>
+    </div>
 

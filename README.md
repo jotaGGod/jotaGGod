@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Jackson ✌️
+## Hi!! I'm Jackson ✌️
 
 <!-- Redes sociais -->
 
@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaGGod&hide_progress=true)]()
 
-## Tecnologias e frameworks
+## Skills
 <!-- Tecnologias -->
 
 <div style="display: flex; justify-content: space-around; "><br>    

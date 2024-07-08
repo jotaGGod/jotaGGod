@@ -14,7 +14,7 @@
 ## Skills
 <!-- Tecnologias -->
 
-<div style="display: flex; justify-content: space-around; "><br>    
+<div style="display: flex; margin:10; justify-content: space-around; "><br>    
     <img width="48" height="48" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Js " title="Js ">
     <img width="48" height="48"  src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="Typescript " title="Typescript ">
     <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>

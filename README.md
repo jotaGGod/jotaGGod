@@ -16,7 +16,7 @@
 
 <div style="display: flex; justify-content: space-around; "><br>    
     <img width="48" height="48" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Js " title="Js ">
-    <img width="48" height="48"  src="[https://cdn-icons-png.flaticon.com/128/5968/5968381.png](https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000)" alt="Typescript " title="Typescript ">
+    <img width="48" height="48"  src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="Typescript " title="Typescript ">
     <img width="48" height="48" alt="golang" src="https://img.icons8.com/color/48/000000/golang.png"/>
     <img width="46" height="46" src="https://static-00.iconduck.com/assets.00/nestjs-plain-icon-512x510-3pkb2qwx.png" alt="nestjs plain icon" title="nestjs">    
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>

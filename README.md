@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h4 align="left">My name is Jackson</h4>
+<h1 align="left">Hey 👋, I'm Jackson😎</h1>
 
 ###
 
@@ -10,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning software engineer principles<br>🎯 Goals: real solutions using code</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning backend engineering principles<br>🎯 Goals: real solutions using code</p>
 
 ###
 
